@@ -99,6 +99,10 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [What is open?](https://okfn.org/opendata/) - Beyond open source software, what is open data and content?
 * [Open Advice](http://open-advice.org/) - Answers the question what 42 prominent contributors would have liked to know when they started with open source
 
+### Business
+
+* [There Is No “Commercial” Open Source – Only Open Source](https://toscalix.com/2025/12/09/there-is-no-commercial-open-source-only-open-source/) - Explanation why the term "commercial open source" is misleading
+
 #### Maintainers
 
 * [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) - Open source maintainers talking about maintaining open source projects
