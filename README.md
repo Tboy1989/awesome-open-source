@@ -137,6 +137,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Contributions and credit policy for open source projects](https://github.com/contribution-credit/policy) - Guide on how to write contribution and credit policies
 * ['Rough Consensus and Running Code' and the Internet-OSI Standards War](https://courses.cs.duke.edu/common/compsci092/papers/govern/consensus.pdf) - How governance of early Internet standards evolved
 * [Policy: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-guideline.en.adoc) - Template for open source contribution policy
+* [Vouch](https://github.com/mitchellh/vouch) - A system to manage trust in contributors
 
 ### Community
 
