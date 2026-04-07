@@ -58,6 +58,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Making Your Code Available Under An Open Source Licence](http://oss-watch.ac.uk/resources/opensourceyourcode) - Overview of how to choose and apply open source licenses
 * [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/) - Overview of the most important Open Source licenses and what they mean
 * [copyleft.org](https://copyleft.org/) - Detailed information about the GPL and other copyleft licenses
+* [GPL-compliant reasonable legal notices and author attributions](https://www.fsf.org/blogs/community/gpl-compliant-legal-notices-author-attributions) - Information about attributions according to the GPL
 * [GPL Cooperation Commitment](https://gplcc.github.io/gplcc/) - Pledge to cooperatively solve GPL v2 violations
 * [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) - A very thorough explanation of the MIT license
 * [License Center](https://github.com/LeChasseur/ifrOSS/blob/master/Lizenzcenter.md) - Categorized list of open source, open content, open data, open hardware licenses
