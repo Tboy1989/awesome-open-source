@@ -9,6 +9,7 @@ Open source is a way of running projects openly and collaboratively, giving user
 This list focuses on resources about the why and how to do open source projects, not so much about the what of concrete projects. It does contain links to lists of awesome open source projects, though.
 
 [Contributions](CONTRIBUTING.md) are welcome. Read the [guidelines](CONTRIBUTING.md) how to contribute.
+If you need help, have a question, or want to report a problem, [open an issue](https://github.com/Tboy1989/awesome-open-source/issues/new).
 
 ## Contents
 
